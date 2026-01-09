@@ -1,0 +1,64 @@
+# 👋 Hi, I'm Surya (Surya751)
+
+🚀 **DevOps Engineer | AWS Cloud Specialist**
+
+I am a DevOps Engineer specializing in designing, automating, and managing scalable cloud infrastructure on AWS. I focus on building reliable CI/CD pipelines, containerized deployments, and infrastructure-as-code using modern DevOps best practices.
+
+---
+
+## 💼 What I Do
+
+- Design and manage **end-to-end three-tier architectures** on AWS
+- Automate infrastructure using **CloudFormation and Terraform**
+- Build CI/CD pipelines using **GitHub Actions** and **AWS CodePipeline**
+- Containerize and deploy applications using **Docker, ECS, and EKS**
+- Manage container images with **Amazon ECR**
+- Implement secure networking, monitoring, and high-availability solutions
+- Work with **basic Azure services** alongside AWS
+
+---
+
+## 🛠️ Tech Stack
+
+**Cloud**
+- AWS (EC2, VPC, S3, IAM, RDS, ECS, EKS, ECR, CloudFront, Route 53, CloudWatch)
+- Azure (VMs, Storage, VNet – Basics)
+
+**DevOps & Automation**
+- GitHub Actions
+- AWS CodePipeline & CodeBuild
+- Terraform
+- CloudFormation
+
+**Containers & Orchestration**
+- Docker
+- Kubernetes (EKS)
+
+**Monitoring & OS**
+- CloudWatch
+- Prometheus
+- Grafana
+- Linux (Ubuntu, Amazon Linux)
+
+---
+
+## 📂 Featured Work
+
+- AWS Three-Tier Architecture (IaC)
+- CI/CD Pipelines with GitHub Actions & AWS
+- Dockerized Applications on ECS & EKS
+- Infrastructure Automation Projects
+- GenAI & RAG Applications using AWS Bedrock
+
+👉 Check my repositories for hands-on implementations.
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Surya751  
+- LinkedIn: https://www.linkedin.com/in/suryadevops/
+
+---
+
+⭐️ *Building scalable, automated, and cloud-native systems.*
