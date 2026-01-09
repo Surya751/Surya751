@@ -2,7 +2,7 @@
 <h3 align="center">DevOps Engineer | AWS Cloud Specialist</h3>
 
 <p align="center">
-I design, automate, and manage scalable cloud infrastructure with a strong focus on CI/CD, containerization, and infrastructure as code.
+I design, automate, and manage scalable cloud infrastructure with a strong focus on CI/CD, containerization, Kubernetes, and AI-driven cloud solutions.
 </p>
 
 ---
@@ -21,9 +21,10 @@ I design, automate, and manage scalable cloud infrastructure with a strong focus
   <li>Design and manage <b>end-to-end three-tier architectures</b> on AWS</li>
   <li>Automate infrastructure using <b>CloudFormation</b> and <b>Terraform</b></li>
   <li>Build CI/CD pipelines using <b>GitHub Actions</b> and <b>AWS CodePipeline</b></li>
-  <li>Containerize and deploy applications using <b>Docker, ECS, and EKS</b></li>
-  <li>Manage container images with <b>Amazon ECR</b></li>
-  <li>Implement monitoring and logging using <b>CloudWatch, Prometheus, and Grafana</b></li>
+  <li>Deploy and operate <b>containerized applications</b> using <b>Docker, ECS, and EKS</b></li>
+  <li>Implement <b>real-world Kubernetes deployments</b> with auto-scaling, ingress, and load balancing</li>
+  <li>Enable monitoring and logging using <b>CloudWatch, Prometheus, and Grafana</b></li>
+  <li>Support <b>AI & GenAI workloads</b> using AWS-native services</li>
   <li>Work with <b>basic Azure services</b> alongside AWS</li>
 </ul>
 
@@ -67,45 +68,26 @@ I design, automate, and manage scalable cloud infrastructure with a strong focus
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 </a>
 
-<!-- Databases -->
-<a href="https://www.postgresql.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</a>
-
 </p>
 
 ---
 
-<h3 align="left">📂 Featured Work</h3>
+<h3 align="left">📂 Featured Work (Real-World Focus)</h3>
 <ul>
-  <li>AWS Three-Tier Architecture using Infrastructure as Code</li>
-  <li>CI/CD Pipelines with GitHub Actions & AWS</li>
-  <li>Dockerized Applications deployed on ECS & EKS</li>
-  <li>Infrastructure Automation Projects</li>
-  <li>GenAI & RAG Applications using AWS Bedrock</li>
+  <li><b>Production-Ready Kubernetes Deployments</b> on Amazon EKS with HPA, Ingress (ALB), ConfigMaps, and Secrets</li>
+  <li><b>CI/CD Pipelines for Kubernetes</b> using GitHub Actions with automated image build, scan, and rollout</li>
+  <li><b>Microservices Deployment</b> using Docker, Amazon ECR, ECS, and EKS</li>
+  <li><b>AWS Three-Tier Architecture</b> built using Infrastructure as Code</li>
+  <li><b>AI & GenAI Infrastructure Support</b> for RAG-based applications using AWS Bedrock</li>
+  <li><b>Secure Cloud Networking</b> with VPC, private subnets, NAT Gateway, and ALB</li>
 </ul>
 
 <p>
-👉 Explore my repositories for hands-on, real-world implementations.
-</p>
-
----
-
-<h3 align="left">📊 GitHub Stats</h3>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Surya751&show_icons=true&theme=default" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Surya751" />
+👉 Explore my repositories to see real-world, production-style implementations.
 </p>
 
 ---
 
 <p align="center">
-⭐ Building scalable, automated, and cloud-native systems
+⭐ Focused on building scalable, automated, Kubernetes-first, and AI-ready cloud systems
 </p>
