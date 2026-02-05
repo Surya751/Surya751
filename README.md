@@ -134,7 +134,7 @@ My work focuses on building **scalable, reliable, and cost-optimized cloud syste
 
 <p align="left">
 <a href="https://www.linkedin.com/in/suryadevops/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://github.com/suryadevops"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://github.com/Surya751"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
 ---
