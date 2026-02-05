@@ -1,155 +1,150 @@
-<h1 align="center">Hi 👋, I'm Surya</h1>
-<h3 align="center">DevOps Engineer | AWS Cloud Specialist | AI Solutions Architect</h3>
+![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif)
 
-<p align="center">
-  <i>Building production-grade cloud infrastructure with expertise in AWS, Kubernetes, CI/CD automation, and AI-powered solutions</i>
-</p>
+<h1 align="center">Hi 👋, I'm Surya </h1>
 
----
+<h3 align="center">
+DevOps & Cloud Engineer | AWS Specialist | Building Scalable Infrastructure with Kubernetes & AI
+</h3>
 
-<h3 align="left">🔗 Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/suryadevops/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Surya%20DevOps-blue?style=for-the-badge&logo=linkedin">
-  </a>
-</p>
-
----
-
-<h3 align="left">👨‍💻 About Me</h3>
-
-I'm a DevOps Engineer with hands-on experience delivering **real-time AWS cloud solutions** and **AI-integrated infrastructure** for production environments. My work spans across cloud automation, Kubernetes orchestration, CI/CD pipeline engineering, and implementing AI/GenAI services using **AWS Bedrock** and **OpenAI** platforms.
-
-I specialize in transforming business requirements into scalable, secure, and cost-optimized cloud architectures while enabling teams to ship faster with automation and best practices.
-
----
-
-<h3 align="left">💼 What I Do</h3>
-
-**Cloud Infrastructure & Architecture**
-- Design and deploy **production-grade three-tier architectures** on AWS with high availability and fault tolerance
-- Implement **Infrastructure as Code (IaC)** using Terraform and AWS CloudFormation for reproducible environments
-- Manage multi-account AWS organizations with security best practices and cost optimization strategies
-
-**Container Orchestration & Kubernetes**
-- Deploy and manage **enterprise Kubernetes clusters** on Amazon EKS with auto-scaling, ingress controllers, and service mesh
-- Build containerized microservices architectures using **Docker, Amazon ECR, ECS, and EKS**
-- Implement GitOps workflows with ArgoCD and Flux for declarative infrastructure management
-
-**CI/CD & Automation**
-- Engineer robust **CI/CD pipelines** using GitHub Actions, AWS CodePipeline, and Jenkins for automated testing and deployment
-- Automate infrastructure provisioning, configuration management, and application deployments
-- Implement security scanning, vulnerability assessment, and compliance checks in deployment pipelines
-
-**AI & GenAI Solutions**
-- Integrate **AWS Bedrock** foundation models into cloud applications for intelligent automation
-- Deploy **OpenAI API-based solutions** for RAG (Retrieval-Augmented Generation) applications and chatbots
-- Build serverless AI pipelines using AWS Lambda, API Gateway, and vector databases
-- Implement LLM-powered workflows for document processing, content generation, and intelligent search
-
-**Monitoring & Observability**
-- Set up comprehensive monitoring using **CloudWatch, Prometheus, Grafana, and ELK Stack**
-- Implement distributed tracing and log aggregation for microservices architectures
-- Create custom dashboards and alerting for proactive incident management
-
-**Multi-Cloud & Azure**
-- Work with **Azure services** including VMs, AKS, Azure DevOps, and Azure Functions
-- Implement hybrid cloud solutions and multi-cloud deployment strategies
-
----
-
-<h3 align="left">🛠️ Technology Stack</h3>
+<img align="right" alt="DevOps Automation" width="380" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 
 <p align="left">
-
-**Cloud Platforms**  
-<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://azure.microsoft.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40"/></a>
-
-**Containers & Orchestration**  
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/></a>
-
-**Infrastructure as Code**  
-<a href="https://www.terraform.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40"/></a>
-
-**CI/CD & Automation**  
-<a href="https://github.com/features/actions" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/></a>
-<a href="https://www.jenkins.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/></a>
-
-**Operating Systems & Scripting**  
-<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-
+<img src="https://komarev.com/ghpvc/?username=suryadevops&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-**Additional Tools & Services:**  
-AWS Services: EC2, S3, RDS, Lambda, ECS, EKS, CloudFormation, CloudWatch, Bedrock, SageMaker  
-AI/ML: OpenAI API, AWS Bedrock, LangChain, Vector Databases (Pinecone, ChromaDB)  
-Monitoring: Prometheus, Grafana, ELK Stack, CloudWatch, Datadog  
-Version Control: Git, GitHub, GitLab, Bitbucket  
-Configuration Management: Ansible, Chef  
+---
+
+<h2>👨‍💻 About Me</h2>
+
+I am a DevOps & Cloud Engineer with **2 years of hands-on experience** in designing, deploying, and managing production-grade cloud infrastructure on AWS. I specialize in **container orchestration with Kubernetes, CI/CD automation, infrastructure as code, and integrating AI/GenAI solutions** using AWS Bedrock and OpenAI APIs.
+
+My work focuses on building **scalable, reliable, and cost-optimized cloud systems** while implementing security best practices and monitoring solutions.
 
 ---
 
-<h3 align="left">🚀 Real-Time Projects & Production Experience</h3>
+## 🚀 What I Do
 
-**Enterprise Kubernetes Platform on AWS EKS**
-- Deployed production-grade EKS clusters serving high-traffic microservices applications
-- Implemented auto-scaling (HPA, Cluster Autoscaler), ingress with AWS Load Balancer Controller, and encrypted secrets management
-- Configured monitoring stack with Prometheus, Grafana, and centralized logging
-
-**AI-Powered Document Processing System**
-- Built RAG-based intelligent document search using AWS Bedrock and OpenAI APIs
-- Deployed serverless architecture with Lambda, API Gateway, and DynamoDB
-- Implemented vector embeddings pipeline for semantic search capabilities
-
-**Multi-Region AWS Three-Tier Architecture**
-- Designed highly available infrastructure across multiple AWS regions
-- Automated deployment using Terraform with state management and remote backends
-- Implemented disaster recovery and automated failover mechanisms
-
-**CI/CD Pipeline for Microservices**
-- Built end-to-end GitHub Actions pipelines with Docker image scanning, automated testing, and blue-green deployments
-- Integrated security tools (Trivy, SonarQube) for vulnerability scanning and code quality checks
-- Achieved zero-downtime deployments with automated rollback capabilities
-
-**OpenAI-Integrated Chatbot Infrastructure**
-- Deployed scalable chatbot platform using OpenAI GPT models with custom fine-tuning
-- Implemented rate limiting, caching, and cost optimization strategies
-- Built monitoring dashboards for API usage, latency, and user analytics
-
-**Hybrid Cloud Networking & Security**
-- Configured secure VPC architectures with private subnets, NAT gateways, and VPN connections
-- Implemented AWS Transit Gateway for multi-VPC connectivity
-- Set up WAF, Security Groups, and NACLs following AWS Well-Architected Framework
+- Build and manage **production Kubernetes clusters** on Amazon EKS with auto-scaling and ingress configuration
+- Design **AWS three-tier architectures** with high availability and fault tolerance
+- Automate infrastructure provisioning using **Terraform** and **AWS CloudFormation**
+- Implement **CI/CD pipelines** using GitHub Actions and AWS CodePipeline
+- Deploy **containerized microservices** using Docker, Amazon ECR, and ECS
+- Integrate **AI/GenAI solutions** with AWS Bedrock and OpenAI for intelligent automation
+- Set up **monitoring and observability** using CloudWatch, Prometheus, and Grafana
+- Manage configuration and automation using **Ansible**
+- Work with **Azure cloud services** for multi-cloud deployments
 
 ---
 
-<h3 align="left">🎯 Key Achievements</h3>
+## 🧰 DevOps Toolchain
 
-✅ Reduced infrastructure costs by 35% through rightsizing and auto-scaling implementations  
-✅ Achieved 99.9% uptime for production Kubernetes clusters serving millions of requests  
-✅ Automated deployment processes reducing release time from days to hours  
-✅ Successfully integrated AI capabilities into legacy applications using AWS Bedrock  
-✅ Implemented security best practices achieving compliance with industry standards  
+### ☁️ Cloud & Infrastructure
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,terraform,ansible" />
+</p>
+
+### 🐳 Containers & Orchestration
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/Helm.png" width="48" height="48" />
+<img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" width="48" height="48" />
+</p>
+
+### 🔁 CI/CD & Automation
+<p>
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab,github" />
+</p>
+
+### 📊 Observability & Monitoring
+<p>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+<img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="48" height="48" alt="CloudWatch" />
+</p>
+
+### 🤖 AI & GenAI Services
+<p>
+<img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="48" height="48" alt="AWS Bedrock" />
+<img src="https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png" width="48" height="48" alt="OpenAI" />
+</p>
+
+### 🔐 Security & Version Control
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+<img src="https://avatars.githubusercontent.com/u/49598846?s=200&v=4" width="48" height="48" alt="Trivy" />
+</p>
+
+### 🖥️ Scripting & OS
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash,linux,powershell" />
+</p>
 
 ---
 
-<h3 align="left">📚 Currently Exploring</h3>
+## 💼 Real-World Experience
 
-- Advanced Kubernetes operators and custom resource definitions (CRDs)
-- Multi-cloud Kubernetes management with Rancher and Google Anthos
-- AI model deployment and MLOps practices on AWS SageMaker
-- Serverless computing patterns and event-driven architectures
-- Platform engineering and internal developer platforms (IDPs)
+### 🏗️ Infrastructure & Cloud
+- Designed and deployed **multi-tier AWS architectures** with VPC, EC2, RDS, and Application Load Balancers
+- Automated infrastructure provisioning using **Terraform modules** for reusable and scalable deployments
+- Implemented **cost optimization strategies** reducing cloud expenses by identifying unused resources
+- Configured **secure networking** with private subnets, NAT gateways, security groups, and NACLs
+
+### 🐳 Kubernetes & Containers
+- Deployed and managed **Amazon EKS clusters** for production microservices applications
+- Implemented **Horizontal Pod Autoscaling (HPA)** and Cluster Autoscaler for dynamic resource management
+- Configured **Ingress controllers** with AWS Load Balancer Controller for traffic routing
+- Built **Docker images** and managed container registries using Amazon ECR
+- Deployed applications on **Amazon ECS** with Fargate for serverless container management
+
+### 🔄 CI/CD & Automation
+- Built **end-to-end CI/CD pipelines** using GitHub Actions with automated testing and deployment
+- Integrated **security scanning tools** (Trivy, SonarQube) into pipelines for vulnerability detection
+- Automated **configuration management** using Ansible for consistent server provisioning
+- Implemented **blue-green and rolling deployment strategies** for zero-downtime releases
+
+### 🤖 AI/GenAI Integration
+- Integrated **AWS Bedrock** foundation models for intelligent document processing and chatbot applications
+- Deployed **OpenAI API-based solutions** for RAG (Retrieval-Augmented Generation) implementations
+- Built **serverless AI pipelines** using AWS Lambda and API Gateway
+- Implemented **vector databases** for semantic search capabilities
+
+### 📊 Monitoring & Observability
+- Set up **CloudWatch dashboards** for real-time monitoring of AWS resources and applications
+- Deployed **Prometheus and Grafana** stack for Kubernetes cluster monitoring
+- Configured **custom metrics and alarms** for proactive incident management
+- Implemented **log aggregation** for centralized logging and troubleshooting
+
+---
+
+## 🎯 Key Projects
+
+✅ **Production EKS Cluster Deployment** - Deployed highly available Kubernetes cluster with auto-scaling, monitoring, and security best practices
+
+✅ **CI/CD Pipeline for Microservices** - Built automated pipelines with Docker image building, scanning, testing, and deployment to EKS
+
+✅ **AWS Three-Tier Architecture** - Designed and deployed scalable web application infrastructure using Terraform
+
+✅ **AI-Powered Chatbot Infrastructure** - Integrated AWS Bedrock and OpenAI APIs into serverless architecture for intelligent automation
+
+✅ **Monitoring Stack Implementation** - Configured Prometheus, Grafana, and CloudWatch for comprehensive observability
+
+✅ **Infrastructure Automation** - Created reusable Terraform modules and Ansible playbooks for consistent deployments
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/suryadevops/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://github.com/suryadevops"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+---
+
+📫 Reach me at **surya.devops@example.com**  
+⚡ Fun fact: I love automating repetitive tasks and solving real-world infrastructure challenges
 
 ---
 
 <p align="center">
-  <i>⭐ Passionate about building scalable, secure, and AI-ready cloud infrastructure that drives business innovation</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suryadevops&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<i>⭐ Passionate about building scalable, secure, and AI-ready cloud infrastructure</i>
 </p>
