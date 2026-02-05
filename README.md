@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Surya </h1>
 
 <h3 align="center">
-DevOps & Cloud Engineer | AWS Specialist | Building Scalable Infrastructure with Kubernetes & AI
+DevOps & Cloud Engineer | AWS Cloud Enthusiast | Building Scalable Infrastructure with Kubernetes & AI
 </h3>
 
 <img align="right" alt="DevOps Automation" width="380" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
@@ -47,12 +47,11 @@ My work focuses on building **scalable, reliable, and cost-optimized cloud syste
 <p>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
 <img src="https://icon.icepanel.io/Technology/png-shadow-512/Helm.png" width="48" height="48" />
-<img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" width="48" height="48" />
 </p>
 
 ### 🔁 CI/CD & Automation
 <p>
-<img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab,github" />
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,github" />
 </p>
 
 ### 📊 Observability & Monitoring
@@ -69,13 +68,13 @@ My work focuses on building **scalable, reliable, and cost-optimized cloud syste
 
 ### 🔐 Security & Version Control
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+<img src="https://skillicons.dev/icons?i=git,github" />
 <img src="https://avatars.githubusercontent.com/u/49598846?s=200&v=4" width="48" height="48" alt="Trivy" />
 </p>
 
 ### 🖥️ Scripting & OS
 <p>
-<img src="https://skillicons.dev/icons?i=python,bash,linux,powershell" />
+<img src="https://skillicons.dev/icons?i=python,bash,linux" />
 </p>
 
 ---
@@ -119,9 +118,9 @@ My work focuses on building **scalable, reliable, and cost-optimized cloud syste
 
 ✅ **Production EKS Cluster Deployment** - Deployed highly available Kubernetes cluster with auto-scaling, monitoring, and security best practices
 
-✅ **CI/CD Pipeline for Microservices** - Built automated pipelines with Docker image building, scanning, testing, and deployment to EKS
+✅ **CI/CD Pipeline for Microservices** - Built automated pipelines with Docker image building, scanning, testing, and deployment to ECS 
 
-✅ **AWS Three-Tier Architecture** - Designed and deployed scalable web application infrastructure using Terraform
+✅ **AWS Three-Tier Architecture** - Designed and deployed scalable web application infrastructure using Terraform & cCloud Formation
 
 ✅ **AI-Powered Chatbot Infrastructure** - Integrated AWS Bedrock and OpenAI APIs into serverless architecture for intelligent automation
 
@@ -140,7 +139,7 @@ My work focuses on building **scalable, reliable, and cost-optimized cloud syste
 
 ---
 
-📫 Reach me at **surya.devops@example.com**  
+📫 Reach me at **suryacloud75@gmail.com**  
 ⚡ Fun fact: I love automating repetitive tasks and solving real-world infrastructure challenges
 
 ---
